@@ -1,8 +1,8 @@
 # Solve-.java-practice ☕
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/soumyajitxedu/Solve-.java-practice)
-![GitHub stars](https://img.shields.io/github/stars/your-username/Solve-.java-practice?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/Solve-.java-practice?style=social)
+![GitHub stars](https://img.shields.io/github/stars/soumyajitxedu/Solve-.java-practice?style=social)
+![GitHub forks](https://img.shields.io/github/forks/soumyajitxedu/Solve-.java-practice?style=social)
 
 Welcome to **Solve-.java-practice**, a comprehensive collection of Java programming problems and their solutions. This repository is designed for anyone looking to sharpen their Java skills, prepare for technical interviews, or simply enjoy the challenge of problem-solving.
 
