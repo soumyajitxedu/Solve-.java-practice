@@ -1,0 +1,17 @@
+
+
+public class weraod99
+{
+  public static void main(String[] args)
+  {
+  int a = 184;
+  int b = 500;
+  int c = 849;
+  int f = 874;
+  int d = a + b + c + f;
+  d = d/2;
+  double e = d * 3.14;
+  System.err.println("e" + e);
+  }
+
+}
