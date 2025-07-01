@@ -1,0 +1,11 @@
+class xera11
+{
+    public static void main(String[] args)
+    {
+        double price = 1000;
+        double finalprice = price + 18;
+        System.out.println("the final price of the product is " + finalprice);
+
+
+    }
+}
