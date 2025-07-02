@@ -1,0 +1,19 @@
+class Fuckio556 {
+    public static void main(String[] args) {
+        Double a = 5.3;
+        Double b = 2.2;
+        Double c = a + b;
+        System.out.println("A + b is " + c);
+
+        // Conditional logic based on the value of 'a'
+        if (a < 5) {
+            System.out.println("false"); // Cannot return in a void method
+        } else if (a > 4) { // This condition will be true for a = 5.3
+            System.out.println("true"); // Cannot return in a void method
+        }
+        // No explicit else needed if the above covers all desired conditions.
+        // For a = 5.3:
+        // (a < 5) is false.
+        // (a > 4) is true, so "true" will be printed.
+    }
+}
