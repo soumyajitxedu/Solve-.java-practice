@@ -1,0 +1,17 @@
+class fucku22
+{
+    public static void main(String[] args)
+    {
+        int number = 10;
+        if(number > 7)
+        {
+            System.out.println("number is grater than 7");
+        }
+        else
+        {
+            System.out.println("number is not grater than 7");
+        }
+
+
+    }
+}
