@@ -1,0 +1,19 @@
+//write a program in java that take input an intteger display the interger with suiltable message
+//File: one.java    
+import java.util.Scanner;
+public class one
+
+{
+    // This is the main method where the program starts execution
+public static void main(String[] args)
+    {
+        
+        Scanner sc =new Scanner(System.in);
+        System.out.println("give a number");
+        int n = sc.nextInt();
+        System.out.println("inputted number is =" + n);
+    }
+}
+
+
+    
