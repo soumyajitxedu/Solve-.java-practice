@@ -1,0 +1,23 @@
+//Write program in java that input by the user take  principla , rate , time  then calculate their si  and average with suitable message
+import java.util.Scanner;
+
+class uilof77
+{
+   void display()
+   {
+      Scanner sc = new Scanner(System.in);
+      System.out.print("Enter principal amount: ");
+      double principal = sc.nextDouble();
+      System.out.print("Enter rate of interest: ");
+      double rate = sc.nextDouble();
+      System.out.print("Enter time (in years): ");
+      double time = sc.nextDouble();
+
+      double simpleInterest = (principal * rate * time) / 100;
+      double average = simpleInterest / time;
+
+      System.out.println("Simple Interest: " + simpleInterest);
+      System.out.println("Average Simple Interest per year: " + average);
+   }
+}
+
