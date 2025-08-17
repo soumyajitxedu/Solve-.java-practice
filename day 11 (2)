@@ -1,0 +1,10 @@
+class neuralnetwork
+{
+   void display()
+   {
+      int kill = 100;
+      int age = 11;
+      int c = kill + age;
+      System.out.println("The sum of kill and age is: " + c);
+   }
+}
