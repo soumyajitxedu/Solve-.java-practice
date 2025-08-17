@@ -1,0 +1,15 @@
+class funkq1
+{
+   void display()
+   {
+      int temperature = 33;
+      if(temperature > 30)
+      {
+         System.out.println("It's a hot day");
+      }
+      else if(temperature < 30)
+      {
+         System.out.println("It's a cold day");
+      }
+   }
+}
