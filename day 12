@@ -1,0 +1,25 @@
+//write program in java that input an int from user , calculate and display the following suitable messeage 
+//a. display orianal value
+//b.square value
+//c. cube value 
+//d. square root value
+//e. cube root value
+import java.util.Scanner;
+class goat07
+{
+    public static void main(String[] args) {
+        try (Scanner sc = new Scanner(System.in)) {
+            System.out.println("insert any value");
+            int a = sc.nextInt();
+            System.out.println("ur value is :" + a);
+            int b = a * a;
+            System.out.println("square value:" + b);
+            int c = a * a * a;
+            System.out.println("cube value is :" + c);
+            System.out.println("square root value is :" + Math.sqrt(a));
+            System.out.println("cube root value is : " + Math.cbrt(a));
+        }
+    }
+
+}
+
