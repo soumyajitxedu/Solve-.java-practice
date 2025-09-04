@@ -1,0 +1,19 @@
+// This program adds two integers entered by the user.
+// This program adds two integers entered by the user.
+import java.util.Scanner;
+class goat7
+{
+    public static void main()
+    {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("enter ur number");
+        int num1 = sc.nextInt();
+        System.out.println("next number ? can write it");
+        int b2 = sc.nextInt();
+        int sum = num1 + b2;
+        System.out.println("the sum is "+ sum);
+        sc.close();
+
+
+    }
+}
