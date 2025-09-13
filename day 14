@@ -1,0 +1,17 @@
+//write program in java that input the length and breath of rectangle from the keyboard or user . calculate and display the area and perimeter of the rectangle with suitable message
+import java.util.Scanner;
+class whiy
+{
+    public static void main(String[] args) 
+    {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the length of the rectangle: ");
+        int a = sc.nextInt();
+        System.out.print("Enter the breadth of the rectangle: ");
+        int b = sc.nextInt();
+        int area = a * b;
+        int perimeter = 2 * (a + b);
+        System.out.println("Area of the rectangle: " + area);
+        System.out.println("Perimeter of the rectangle: " + perimeter);
+    }
+}
