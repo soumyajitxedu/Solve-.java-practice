@@ -1,0 +1,20 @@
+//Square Pattern: Write a Java program using nested while loops to print a 4×4 square of asterisks (*).
+
+class something {
+    public static void main(String[] args) {
+        int size = 4;
+        int columns = 1;
+        while (columns <= size) {
+            int row = 1;
+            while( row <= size) {
+                System.out.print("* ");
+                row++;
+            }
+            System.out.println();
+            columns++;
+        }
+
+
+
+    }
+}
