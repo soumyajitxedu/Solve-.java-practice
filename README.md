@@ -16,6 +16,9 @@ Welcome to **Solve-.java-practice**, a comprehensive collection of Java programm
 
 ## 🚀 Getting Started
 
+<img src="https://i.giphy.com/hOclin2KcAEOcZEnXK.webp" width="200">
+
+
 To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
@@ -36,108 +39,6 @@ To get a local copy up and running, follow these simple steps.
 3.  **Open with your favorite IDE:**
     You can open the project in any Java-supported IDE like IntelliJ IDEA, Eclipse, or VS Code.
 
-## 📚 Problem Categories
-
-Here's a list of the problem categories available in this repository. Click on a problem to see its description and solution.
-
-<details>
-<summary><strong>Array & Strings</strong></summary>
-
-* **Problem: Two Sum**
-    <details>
-    <summary>Solution</summary>
-
-    ```java
-    // Add your Java code for the Two Sum problem here.
-    class Solution {
-        public int[] twoSum(int[] nums, int target) {
-            // Your implementation here
-        }
-    }
-    ```
-    </details>
-
-* **Problem: Reverse a String**
-    <details>
-    <summary>Solution</summary>
-
-    ```java
-    // Add your Java code for reversing a string here.
-    class Solution {
-        public void reverseString(char[] s) {
-            // Your implementation here
-        }
-    }
-    ```
-    </details>
-
-</details>
-
-<details>
-<summary><strong>Data Structures</strong></summary>
-
-* **Problem: Implement a Linked List**
-    <details>
-    <summary>Solution</summary>
-
-    ```java
-    // Add your Java code for implementing a linked list here.
-    class ListNode {
-        int val;
-        ListNode next;
-        ListNode(int x) { val = x; }
-    }
-    ```
-    </details>
-
-* **Problem: Implement a Stack using Queues**
-    <details>
-    <summary>Solution</summary>
-
-    ```java
-    // Add your Java code for implementing a stack using queues here.
-    class MyStack {
-        // Your implementation here
-    }
-    ```
-    </details>
-
-</details>
-
-<details>
-<summary><strong>Algorithms</strong></summary>
-
-* **Problem: Binary Search**
-    <details>
-    <summary>Solution</summary>
-
-    ```java
-    // Add your Java code for binary search here.
-    class Solution {
-        public int search(int[] nums, int target) {
-            // Your implementation here
-        }
-    }
-    ```
-    </details>
-
-* **Problem: Merge Sort**
-    <details>
-    <summary>Solution</summary>
-
-    ```java
-    // Add your Java code for merge sort here.
-    class Solution {
-        public int[] sortArray(int[] nums) {
-            // Your implementation here
-        }
-    }
-    ```
-    </details>
-
-</details>
-
-*(More categories and problems will be added continuously!)*
 
 ## 🤝 How to Contribute
 
@@ -157,13 +58,7 @@ Please make sure to update tests as appropriate.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 🙏 Acknowledgments
 
-* [LeetCode](https://leetcode.com/)
-* [HackerRank](https://www.hackerrank.com/)
-* [GeeksforGeeks](https://www.geeksforgeeks.org/)
-
----
 
 <p align="center">
   <em>Happy Coding!</em> 💻
